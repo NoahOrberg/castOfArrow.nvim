@@ -2,6 +2,7 @@
 
 import neovim
 import time
+import random
 from requests.exceptions import ConnectionError
 
 @neovim.plugin
